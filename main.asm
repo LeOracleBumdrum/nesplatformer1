@@ -1,5 +1,3 @@
-; my very first NES program
-
 .segment "HEADER"
 .byte "NES", $1A
 .byte $02
